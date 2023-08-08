@@ -1,3 +1,5 @@
 # Assblaster
-HBM's Nuclear Tech Mod must be manually downloaded, can be done using the link below:
-https://www.curseforge.com/minecraft/mc-mods/hbms-nuclear-tech-mod/download/4580496
+HBM's Nuclear Tech Mod does not need to be manually downloaded as it is already available in the downloads
+<br>
+
+To install, look to the right of your screen and download the latest **Release**.
